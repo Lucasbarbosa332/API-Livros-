@@ -67,7 +67,7 @@ python
 
 ## ✍️ Editar Livro
 
-<img width=40% src="" alt="0">
+<img width=40% src="https://github.com/Lucasbarbosa332/API-Livros-/blob/main/img/Metedo%20PUT.png?raw=true" alt="0">
 
  * PUT /livros/<int:id>
  * Descrição: Atualiza os dados de um livro.
