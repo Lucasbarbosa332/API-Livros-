@@ -40,7 +40,11 @@ python
   ```
 # 🚀 Endpoints Disponíveis
 
+
 ## 📖 Consultar Todos os Livros
+
+<img width=40% src="" alt="0">
+
  * GET /livros
  * Descrição: Retorna uma lista com todos os livros cadastrados.
  * Exemplo de Resposta:
@@ -51,6 +55,7 @@ python
 ]
 ```
 ## 🔍 Consultar Livro por ID
+
   * GET /livros/<int:id>
   * Descrição: Retorna os detalhes de um livro específico.
   * Exemplo de Resposta:
@@ -58,7 +63,12 @@ python
 {"id": 1, "título": "Dom Quixote", "autor": "Miguel de Cervantes"}
 
 ```
+
+
 ## ✍️ Editar Livro
+
+<img width=40% src="" alt="0">
+
  * PUT /livros/<int:id>
  * Descrição: Atualiza os dados de um livro.
  * Corpo da Requisição:
@@ -73,6 +83,9 @@ python
 
 ```
 ## ➕ Adicionar Livro
+
+<img width=40% src="" alt="0">
+
  * POST /livros
  * Descrição: Adiciona um novo livro ao banco de dados.
  * Corpo da Requisição
@@ -88,6 +101,9 @@ python
 
    ```
 ##  ❌ Excluir Livro
+
+<img width=40% src="" alt="0">
+
  * DELETE /livros/<int:id>
  * Descrição: Remove um livro do banco de dados.
  * Exemplo de Resposta:
