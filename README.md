@@ -84,7 +84,7 @@ python
 ```
 ## ➕ Adicionar Livro
 
-<img width=40% src="" alt="0">
+<img width=40% src="https://github.com/Lucasbarbosa332/API-Livros-/blob/main/img/Post.png?raw=true" alt="0">
 
  * POST /livros
  * Descrição: Adiciona um novo livro ao banco de dados.
