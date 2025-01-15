@@ -102,7 +102,7 @@ python
    ```
 ##  ❌ Excluir Livro
 
-<img width=40% src="" alt="0">
+<img width=40% src="https://github.com/Lucasbarbosa332/API-Livros-/blob/main/img/Metedo%20DElete.png?raw=true" alt="0">
 
  * DELETE /livros/<int:id>
  * Descrição: Remove um livro do banco de dados.
